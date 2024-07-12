@@ -53,3 +53,52 @@
  width: 900px;
  margin-left: 200px;
 }
+#hd{
+    color: orangered;
+    text-align: center;
+    font-size: 20px;
+}
+
+#rom{
+          
+ color: rgb(82, 44, 102);
+ width: 900px;
+ margin-left: 250px;
+}
+
+#i2{
+
+
+    position: relative;
+    float: left;
+    box-sizing: border-box;
+    margin-bottom: 3px;
+    width: 200px;
+    height: 200px;
+}
+#d{
+    border: solid blue 5px;
+    background-color: rgb(227, 221, 221);
+    height: fit-content;
+    overflow: hidden;
+}
+#bio{
+    text-align: right;
+    font-size: 20px;
+}
+#if{
+    margin-left: 16px;
+}
+
+
+#tab{
+
+    width: 200px;
+    height: 300px;
+    /* margin-left: 16px; */
+}
+#el{
+    margin-left: 16px;
+    font-size: 22px;
+    text-align: center;
+}
